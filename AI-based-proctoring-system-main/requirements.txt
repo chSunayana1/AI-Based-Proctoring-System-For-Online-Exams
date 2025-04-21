@@ -1,0 +1,9 @@
+opencv-python
+ultralytics
+numpy
+datetime
+gaze_tracking
+threading
+tkinter
+
+
