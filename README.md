@@ -34,6 +34,7 @@ This project is an AI-driven proctoring solution designed to monitor and flag su
 1. **Clone the repository**
    
 https://github.com/chSunayana1/AI-Based-Proctoring-System-For-Online-Exams.git
+
 cd AI-based-proctoring-system
 
 2. **Install dependencies**
