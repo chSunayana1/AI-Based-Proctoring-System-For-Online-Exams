@@ -1,2 +1,0 @@
-[19:08:08] ALERT: Unauthorized object detected (mobile)
-[19:08:33] ALERT: Multiple faces detected
