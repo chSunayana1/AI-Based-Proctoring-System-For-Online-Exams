@@ -34,5 +34,15 @@ This project is an AI-driven proctoring solution designed to monitor and flag su
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/AI-based-proctoring-system.git
+https://github.com/chSunayana1/AI-Based-Proctoring-System-For-Online-Exams.git
 cd AI-based-proctoring-system
+2. **Install dependencies**
+pip install -r requirements.txt
+3.**How to Run**
+python proctoring.py
+
+Click Quit to end the session.
+
+A video will be saved in the root folder.
+
+Violations are logged in separate .txt files.
