@@ -36,9 +36,15 @@ This project is an AI-driven proctoring solution designed to monitor and flag su
 ```bash
 https://github.com/chSunayana1/AI-Based-Proctoring-System-For-Online-Exams.git
 cd AI-based-proctoring-system
+
 2. **Install dependencies**
+
+```bash
 pip install -r requirements.txt
+
 3.**How to Run**
+
+```bash
 python proctoring.py
 
 Click Quit to end the session.
